@@ -13,5 +13,5 @@ Collection of ETL/ELT of various security sources for ingestion and use within s
 | Source  | Method   | Field Documentation  |
 |---|---|---|
 | Lacework  | Snowpipe + Streams/tasks  | https://docs.lacework.com/category/snowflake-data-share-views  |
-|   |   |   |
-|   |   |   |
+| VPC Flow Logs (Parquet)  | Snowpipe  | https://docs.aws.amazon.com/athena/latest/ug/vpc-flow-logs.html  |
+| Cloudtrail  | Snowpipe  |   |
